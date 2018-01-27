@@ -18,7 +18,7 @@ public class App extends Application<HelloWorldConfiguration> {
     @Override
     public void initialize(Bootstrap<HelloWorldConfiguration> bootstrap) {
         // nothing to do yet
-        //Test2
+        //Test23
     }
 
     @Override
